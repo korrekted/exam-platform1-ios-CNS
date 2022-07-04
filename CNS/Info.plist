@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>cnsexam</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb316023870565469</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>316023870565469</string>
+	<key>FacebookClientToken</key>
+	<string>9011814774fb7e93f18b26586bcf4325</string>
+	<key>FacebookDisplayName</key>
+	<string>CNS Exam</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>SF-Pro-Rounded-Regular.otf</string>
+		<string>SF-Pro-Rounded-Bold.otf</string>
+		<string>SF-Pro-Rounded-Semibold.otf</string>
+		<string>SF-Pro-Rounded-Black.otf</string>
+	</array>
+	<key>branch_key</key>
+	<string>key_live_no1QM8zVjsBccNWsPw5BQaifFBb0YMVq</string>
+</dict>
+</plist>

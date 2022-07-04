@@ -1,0 +1,284 @@
+/* 
+  Localizable.strings
+  ACMA
+
+  Created by Андрей Чернышев on 04.07.2022.
+  
+*/
+
+// MARK: General
+"Cancel" = "Cancel";
+"Continue" = "Continue";
+
+// MARK: ImagePicker
+"ImagePicker.TakePhoto" = "Take photo";
+"ImagePicker.CameraRoll" = "Camera roll";
+"ImagePicker.PhotoLibrary" = "Photo library";
+
+// MARK: Course
+"Course.Tab.Stats" = "Stats";
+"Course.Tab.Study" = "Study";
+"Course.Tab.Review" = "Review";
+
+// MARK: Splash
+"Splash.Title.Part1" = "Prepared by\n";
+"Splash.Title.Part2" = "CERTIFIED\n";
+"Splash.Title.Part3" = "experts";
+"Splash.Preloader1" = "Checking your account...";
+"Splash.Preloader2" = "Syncing the question bank...";
+"Splash.Preloader3" = "Setting up the onboarding...";
+"Splash.Preloader4" = "Setting up your account...";
+
+// MARK: Onboarding
+"Onboarding.FailedToSave" = "Failed to save";
+"Onboarding.Skip" = "Skip";
+"Onboarding.Proceed" = "Proceed";
+"Onboarding.Yes" = "Yes";
+"Onboarding.No" = "No";
+"Onboarding.Next" = "Next";
+"Onboarding.Goals.Title" = "WHAT ARE YOUR GOALS?";
+"Onboarding.Goals.Cell1" = "Pass the exam";
+"Onboarding.Goals.Cell2" = "Become a better specialist";
+"Onboarding.Goals.Cell3" = "Extend my knowledge";
+"Onboarding.Goals.Cell4" = "Refresh the basics";
+"Onboarding.Goals.Cell5" = "Try something new";
+"Onboarding.WhenTaking.Title" = "WHEN ARE YOU TAKING THE EXAM?";
+"Onboarding.Time.Title" = "HOW MUCH TIME CAN\nYOU SPEND ON A TEST?";
+"Onboarding.Time.CasualTitle" = "Casual";
+"Onboarding.Time.CasualMin" = "5 min daily";
+"Onboarding.Time.RegularTitle" = "Regular";
+"Onboarding.Time.RegularMin" = "10 min daily";
+"Onboarding.Time.SeriousTitle" = "Serious";
+"Onboarding.Time.SeriousMin" = "15 min daily";
+"Onboarding.Time.IntenseTitle" = "Intense";
+"Onboarding.Time.IntenseMin" = "20 min daily";
+"Onboarding.SlideCount.Title" = "HOW MANY TESTS WOULD YOU WANT TO TAKE DAILY?";
+"Onboarding.SlidePreloader.Title" = "PREPARING YOUR\nINDIVIDUAL STUDY PLAN";
+"Onboarding.SlidePreloader.Preloader1" = "Analyzing your skill level...";
+"Onboarding.SlidePreloader.Preloader2" = "Analyzing your study preferences...";
+"Onboarding.SlidePlan.Title" = "YOUR PERSONAL 98% PASS\nRATE STUDY PLAN";
+"Onboarding.SlidePlan.Cell1" = "Multiple sets of questions";
+  "Onboarding.SlidePlan.Cell2" = "Consise explanation";
+  "Onboarding.SlidePlan.Cell3" = "Different exam modes";
+  "Onboarding.SlidePlan.Cell4" = "Reminders and notifications";
+"Onboarding.SlidePlan.Button" = "Let’s go!";
+"Onboarding.Welcome.Title1" = "PERSONAL STUDY PLAN";
+"Onboarding.Welcome.Subtitle1" = "The question bank is divided into sets\naccording to your skills, requirements\nand settings";
+"Onboarding.Welcome.Title2" = "98% PASS RATE";
+"Onboarding.Welcome.Subtitle2" = "Easily track your pass rate and\nprogress. Gain confidence with\nevery step you take!";
+"Onboarding.Welcome.Title3" = "PASS FIRST TIME";
+"Onboarding.Welcome.Subtitle3" = "Once you’re really close to 100%\npass rate go for the real exam\nand pass with flying colors!";
+"Onboarding.Welcome.GetStarted" = "Let’s do it";
+"Onboarding.References.Title" = "COURSE REFERENCES";
+"Onboarding.Modes.Title" = "WHAT EXAM MODE DO\nYOU PREFER?";
+"Onboarding.Modes.Cell1.Title" = "Full support";
+"Onboarding.Modes.Cell1.Subtitle" = "After the answer the correct one\nand the explanation will be shown";
+"Onboarding.Modes.Cell2.Title" = "Without explanations";
+"Onboarding.Modes.Cell2.Subtitle" = "Only the correct answer will be\nshown before the next question";
+"Onboarding.Modes.Cell3.Title" = "Exam-style";
+"Onboarding.Modes.Cell3.Subtitle" = "See the results only after answering\nall questions";
+"Onboarding.WhenStudy.Title" = "WHEN DO YOU WANT TO\nSTUDY?";
+"Onboarding.WhenStudy.Cell1" = "Early morning";
+"Onboarding.WhenStudy.Cell2" = "At noon";
+"Onboarding.WhenStudy.Cell3" = "After work";
+"Onboarding.WhenStudy.Cell4" = "Before bedtime";
+"Onboarding.WhenStudy.Cell5" = "No particular preference";
+"Onboarding.Push.Title" = "STAY ON TRACK!";
+"Onboarding.Push.Subtitle" = "To help you reach your goal we can send useful reminders on a daily basis.";
+"Onboarding.Push.NotNow" = "Not now";
+"Onboarding.Widgets.Title" = "HANDY WIDGETS ON\nYOUR HOME SCREEN";
+"Onboarding.Widgets.Subtitle" = "Add widgets to your Home screen to track your pass rate and progress";
+"Onboarding.Improve.Title" = "WHERE DO YOU NEED TO\nIMPROVE THE MOST?";
+"Onboarding.Improve.Cell1" = "Clinical\nIntervention\nand Monitoring";
+"Onboarding.Improve.Cell2" = "Public\nHealth";
+"Onboarding.Improve.Cell3" = "Nutrients\nand\nHuman\nHealth";
+"Onboarding.Improve.Cell4" = "Nutrition\nAssessment";
+"Onboarding.Improve.Cell5" = "Practice\nManagement";
+"Onboarding.Improve.Cell6" = "Fundamental\nPrinciples of\nNutrition";
+
+// MARK: Courses
+"Courses.Title" = "Where would you\nwant to improve?";
+"Courses.Button" = "Select";
+
+// MARK: Study
+"Study.Title" = "Study";
+"Study.Day.One" = "day";
+"Study.Day.Two" = "days";
+"Study.Day.Many" = "days";
+"Study.Streak" = "streak";
+"Study.TakeTest" = "Take a test";
+"Study.TakeFreeTest" = "Take a free test";
+"Study.UnlockQuestions" = "Unlock all questions";
+"Study.QuizModes" = "Quiz Modes";
+"Study.Mode.TodaysQuestion" = "Today’s\nQuestion";
+"Study.Mode.TenQuestions" = "10 Questions\nQuick Quiz";
+"Study.Mode.MissedQuestions" = "Missed\nQuestions Quiz";
+"Study.Mode.RandomSet" = "Random\nSet Quiz";
+"Study.Mode.Saved" = "Saved\nQuestions Quiz";
+"Study.Mode.Timed" = "Timed Quiz";
+
+// MARK: Settings
+"Settings.Title" = "Settings";
+"Settings.UnlockPremium.Title" = "Unlock";
+"Settings.UnlockPremium.SubTitle" = "PREMIUM";
+"Settings.Premium.Title" = "Premium";
+"Settings.Premium.MemberSince" = "Member since";
+"Settings.Premium.ValidTill" = "Valid till";
+"Settings.Premium.UserId" = "User ID";
+"Settings.Exam" = "Exam";
+"Settings.Exam.ExamDateTitle" = "Exam date";
+"Settings.Exam.ResetProgress" = "Reset progress";
+"Settings.Study" = "Study Settings";
+"Settings.Study.ExamMode" = "Exam mode";
+"Settings.Study.ExamMode.FullSupport" = "Full support";
+"Settings.Study.ExamMode.WithoutExplanations" = "Without explanations";
+"Settings.Study.ExamMode.ExamStyle" = "Exam-style";
+"Settings.Study.Vibration" = "Vibration";
+"Settings.Study.TextSize" = "Text size";
+"Settings.Community" = "Community";
+"Settings.Community.RateUs.Title" = "Rate us";
+"Settings.Community.RateUs.SubTitle" = "Your rating hepls us a lot";
+"Settings.Community.JoinTheCommunity.Title" = "Join the community";
+"Settings.Community.JoinTheCommunity.SubTitle" = "Connect with students on Facebook";
+"Settings.Community.ShareWithFriend.Title" = "Share with a friend";
+"Settings.Community.ShareWithFriend.SubTitle" = "Link to App Store";
+"Settings.Support" = "Support";
+"Settings.Support.ContactUs" = "Contact us";
+"Settings.Support.TermsOfUse" = "Terms of use";
+"Settings.Support.PrivacyPolicy" = "Privacy Policy";
+"Settings.ResetProgress.Title" = "Reset Progress?";
+"Settings.ResetProgress.SubTitle" = "This will remove your entire history. Are you\nsure you want to reset?";
+"Settings.ResetProgress.ResetButton" = "Reset";
+
+// MARK: Stats
+"Stats.PassRate.Title" = " Current pass rate";
+"Stats.MainRate.TestsTake" = "Tests taken";
+"Stats.MainRate.CorrectAnswers" = "Correct answers";
+"Stats.MainRate.QuestionsTaken" = "Questions taken";
+"Stats.MainRate.LongestStreak" = "Longest streak";
+"Stats.MainRate.AnsweredQuestions" = "Answered questions";
+"Stats.Title" = "Stats";
+"Stats.Day.One" = "day";
+"Stats.Day.Two" = "days";
+"Stats.Day.Many" = "days";
+
+// MARK: Paygate
+"Paygate.Main.Title" = "KNOW THE QUESTIONS\nBEFOREHAND";
+"Paygate.Main.Cell1" = "Don’t spend hours learning";
+"Paygate.Main.Cell2" = "Train yourself with %i+ questions";
+"Paygate.Main.Cell3" = "98% pass rate on the first attempt!";
+"Paygate.Main.Info" = "Secured with iTunes. Cancel anytime.";
+"Paygate.Main.TermsOfUse" = "Terms of use";
+"Paygate.Main.And" = " and ";
+"Paygate.Main.PrivacyPolicy" = "Privacy Policy";
+"Paygate.Main.RestorePurchases" = "Restore purchases";
+"Paygate.Purchase.Failed" = "Failed to make purchase";
+"Paygate.Continue" = "Continue →";
+
+// MARK: Question
+"Question.Explanation" = "Explanation";
+"Question.Continue" = "Continue";
+"Question.Submit" = "Submit test";
+"Question.BackToStudying" = "Back to studying";
+"Question.QuestionProgress" = "Question %u/%u";
+"Question.NextQuestion" = "Next question";
+"Question.TodayTitle" = "Today’s question";
+"Question.QuitQuiz.Title" = "Quit Quiz?";
+"Question.QuitQuiz.SubTitle" = "You’ve answered only %i of %i questions.";
+"Question.QuitQuiz.QuitQuiz" = "Quit quiz";
+"Question.QuitQuiz.SubmitQuiz" = "Submit quiz";
+"Question.QuitQuiz.ContinueQuiz" = "Continue quiz";
+"Question.SubmitQuiz.Title" = "Submit quiz?";
+"Question.SubmitQuiz.SubTitle" = "You’ve answered only %i of %i questions.";
+"Question.SubmitQuiz.SubmitQuiz" = "Submit quiz";
+"Question.SubmitQuiz.ContinueQuiz" = "Continue quiz";
+
+// MARK: Test Stats
+"TestStats.Title" = "";
+"TestStats.TestTime" = "Your time";
+"TestStats.CommunityAverage" = "Community average";
+"TestStats.AverageScore" = "Average score";
+"TestStats.Filter.Title" = "Questions";
+"TestStats.Filter.Incorrect" = "Incorrect";
+"TestStats.Filter.Correct" = "Correct";
+"TestStats.Filter.All" = "All";
+"TestStats.QuestionsStats" = "%u correct\n%u incorrect";
+
+// MARK: Widgets
+"Widgets.TestsTaken" = "Tests taken";
+"Widgets.CorrectAnswers" = "Correct answers";
+"Widgets.QuestionsTaken" = "Questions taken";
+"Widgets.PassRate" = "Pass Rate";
+"Widgets.Small.Name" = "Pass Rate";
+"Widgets.Small.Description" = "See your latest pass rate improvements right in front of you";
+"Widgets.Medium.Name" = "Pass Rate and Stats";
+"Widgets.Medium.Description" = "Watch your pass rate progress and how many tests and questions you have taken";
+"Widgets.Large.Name" = "Full Stats";
+"Widgets.Large.Description" = "Watch your pass rate progress and how far are you from completing the question bank";
+
+// MARK: TryAgain
+"TryAgain.Title" = "The app failed to perform a\nrequest";
+"TryAgain.SubTitle" = "If there’s a connection issue on your side please try one more time. If the connection is fine and the error keeps on repeating please get in touch with the support";
+"TryAgain.Button" = "Try again";
+"TryAgain.Contact" = "Contact the support";
+
+// MARK: TextSize
+"TextSize.Title" = "Question 1/10";
+"TextSize.Question" = "What should the nurse’s immediate repose to manage an anxious client?";
+"TextSize.Answer1" = "Reduce environmental stimulation";
+"TextSize.Answer2" = "Use relaxation techniques";
+"TextSize.Answer3" = "Allow client to share his feelings";
+"TextSize.Answer4" = "Actively listen to the client";
+"TextSize.Percent" = "Text size - %i%%";
+
+// MARK: ReportOptions
+"ReportOptions.Title" = "Options";
+"ReportOptions.Report" = "Report question";
+"ReportOptions.Restart" = "Restart quiz";
+
+// MARK: ReportReason
+"ReportReason.Title" = "Report";
+"ReportReason.Reason1" = "Incorrect answer";
+"ReportReason.Reason2" = "I caught a typo";
+"ReportReason.Reason3" = "The question or answers are confusing";
+"ReportReason.Reason4" = "Something isn’t working or seems broken";
+
+// MARK: Report
+"Report.Title" = "Report";
+"Report.Message.Title" = "How can we help";
+"Report.Message.Placeholder" = "Please describe the issue in a little bit of detail";
+"Report.Feedback.Title" = "I need a feedback";
+"Report.Email" = "Email";
+"Report.Button" = "Report";
+"Report.Success" = "Your feedback has been sent. Thanks for improving the app!";
+
+// MARK: TimedQuizMinutes
+"TimedQuizMinutes.Title" = "Timed Quiz";
+"TimedQuizMinutes.SubTitle" = "Set time (in minutes)";
+"TimedQuizMinutes.StartButton" = "Start Test";
+
+// MARK: Review
+"Review.Title" = "Review";
+"Review.Filter.Quizes" = "Quizes";
+"Review.Filter.Questions" = "Questions";
+
+// MARK: Quizes
+"Quizes.Mode.Get" = "Questions";
+"Quizes.Mode.TodaysQuestion" = "Today’s Question";
+"Quizes.Mode.TenQuestions" = "10 Questions Quick Quiz";
+"Quizes.Mode.MissedQuestions" = "Missed Questions Quiz";
+"Quizes.Mode.RandomSet" = "Random Set Quiz";
+"Quizes.Mode.Saved" = "Saved Questions Quiz";
+"Quizes.Mode.Timed" = "Timed Quiz";
+"Quizes.YourTime" = "Your time - %@";
+"Quizes.AverageTime" = "Average time - %@";
+"Quizes.Empty" = "No finished tests yet";
+
+// MARK: Review Questions
+"ReviewQuestions.Filter.All" = "All";
+"ReviewQuestions.Filter.Correct" = "Correct";
+"ReviewQuestions.Filter.Incorrect" = "Incorrect";
+"ReviewQuestions.Empty" = "No answered questions yet";
+
+// MARK: TestViewer
+"TestViewer.Title" = "Questions";
